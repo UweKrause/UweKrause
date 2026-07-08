@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Thanks to GitHub for some great time, but now I self host my code at [code.uwekrau.se](https://code.uwekrau.se/explore/).
+
 <!--
 **UweKrause/UweKrause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
